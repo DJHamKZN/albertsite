@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Плейсхолдер фавикона">
+  <rect width="64" height="64" rx="14" fill="#0E0F11"/>
+  <path d="M12 40h40M17 40l5.2-12.4A6 6 0 0 1 27.7 24h8.6a6 6 0 0 1 5.5 3.6L47 40M21 40v5M43 40v5"
+        fill="none" stroke="#C8A063" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
